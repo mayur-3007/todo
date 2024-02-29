@@ -1,0 +1,17 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "This is basic todo app without database",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.30.1",
+    "nodemon": "^3.1.0"
+  }
+}
